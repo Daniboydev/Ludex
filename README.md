@@ -21,6 +21,8 @@ seule grille, une seule recherche, un seul endroit d'où tout se lance.
 
 Il ne télécharge aucun jeu et ne modifie rien sur ton disque. Il lit ce qui s'y trouve.
 
+![La bibliothèque de Ludex](capture-grille.png)
+
 ## Ce qu'il fait
 
 **Il trouve tes jeux tout seul.** Indique un dossier, il repère les jeux qu'il contient et choisit
@@ -30,6 +32,8 @@ officiels sont lus directement dans leurs manifestes, sans avoir à s'y connecte
 **Il les habille.** Jaquettes, descriptions, genres et notes viennent du catalogue public Steam.
 La note affiche le pourcentage d'avis positifs converti en étoiles, et le détail dans la fiche.
 
+![La fiche d'un jeu](capture-fiche.png)
+
 **Il se pilote à la manette.** Toute l'interface, pas seulement la grille : réglages, fiches,
 recherche, menus. Xbox, DualSense et XInput sont reconnues sans réglage.
 
@@ -38,6 +42,12 @@ d'autres sont détectées, et celles que winget connaît se mettent à jour depu
 
 **Il t'aide à trouver du nouveau.** Classements Steam, promotions en cours, quatorze genres, et une
 recherche d'applications dans le dépôt winget.
+
+![Les suggestions de jeux](capture-decouvrir.png)
+
+**Il s'adapte à ton écran.** Thème clair, thème sombre, ou celui de Windows.
+
+![La bibliothèque en thème clair](capture-grille-claire.png)
 
 ## Installation
 
