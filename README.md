@@ -37,8 +37,21 @@ La note affiche le pourcentage d'avis positifs converti en étoiles, et le déta
 **Il se pilote à la manette.** Toute l'interface, pas seulement la grille : réglages, fiches,
 recherche, menus. Xbox, DualSense et XInput sont reconnues sans réglage.
 
+**Il tient sa liste propre.** Un jeu désinstallé est retiré tout seul au scan suivant, et rangé
+dans les entrées retirées — restaurable, et il revient de lui-même si tu le réinstalles.
+
 **Il tient tes applications à jour.** Blender, Krita, DaVinci, Photoshop et une soixantaine
 d'autres sont détectées, et celles que winget connaît se mettent à jour depuis Ludex.
+
+**Il voit tes mods.** Si Vortex gère un de tes jeux, sa fiche liste les mods déployés, avec un
+raccourci vers le dossier où ils vivent et un autre pour ouvrir Vortex. Rien n'est modifié : Ludex
+lit le manifeste que Vortex laisse sur le disque.
+
+![Les mods détectés par Ludex](capture-mods.png)
+
+**Il se range quand tu as besoin de place.** `Ctrl+B` replie la barre latérale en un rail
+d'icônes, et la grille récupère l'espace. Le dernier jeu lancé garde sa place en tête, sur deux
+colonnes.
 
 **Il t'aide à trouver du nouveau.** Classements Steam, promotions en cours, quatorze genres, et une
 recherche d'applications dans le dépôt winget.
